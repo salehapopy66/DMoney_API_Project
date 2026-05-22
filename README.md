@@ -1,1 +1,1 @@
-This is a basis API collection.
+This is a basic API collection.
